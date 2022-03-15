@@ -15,22 +15,35 @@ video_background:
   button_link: /listings
   enable_black_text: false
 slideshow:
-  - heading: Vesper Main Template
+  - heading: Welcome to Vesper Theme
     subtitle:
     link_label: Read More
     link: https://www.hungryram.com
     image: >-
       https://res.cloudinary.com/hungryram19/image/upload/v1630458883/templates/realestate2/shutterstock_12168997453_dgp9fa.jpg
-    body:
+    body: >-
+      Vesper is a real estate theme created by Hungry Ram Web Design. Built to
+      outperform traditional real estate websites.
     enable_white_text: false
 home_sections:
   - _type: text-and-image-section
     template: text-and-image
-    heading: test
-    body: test
-    button:
-    button_link:
-    image:
+    heading: About Our Team
+    body: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit
+      varius suscipit. Nullam ullamcorper nunc in diam tempor, non malesuada leo
+      sollicitudin. Sed lorem nulla, tincidunt tempor libero vitae, dignissim
+      porttitor justo. Curabitur ornare neque quis nibh commodo porta.
+      Pellentesque eleifend a dui vel lobortis. Donec sit amet nibh ut nulla.
+
+
+      Proin mattis leo et nunc euismod fringilla. Etiam dignissim a sapien ac
+      sagittis.Curabitur ornare neque quis nibh commodo porta. Pellentesque
+      eleifend a dui vel lobortis. Donec sit amet nibh ut nulla ullamcorper
+      rutrum.&nbsp;
+    button: Get in Touch
+    button_link: /contact
+    image: /uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg
     image_alt_tag:
     image_width: 400
 ---
