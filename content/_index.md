@@ -52,10 +52,6 @@ home_sections:
     body: >-
       You can add in listings manually within the admin or connect your website
       to your MLS board.
-  - _type: team-carousel
-    template: home-agent
-    heading: Meet Our Agents
-    body: Lorem ipsum dolor sit amet, consectetur adipisicing elit
   - _type: featured-boxes
     template: featured-boxes
     heading: Display Featured Panels
@@ -72,5 +68,9 @@ home_sections:
       - heading: Multi-Family
         image: /uploads/slider1.jpg
         link: /properties/multi-family/
+  - _type: team-carousel
+    template: home-agent
+    heading: Meet Our Agents
+    body: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
 
