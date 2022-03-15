@@ -50,5 +50,15 @@ home_sections:
     template: home-agent
     heading: Meet Our Agents
     body: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  - _type: featured-boxes
+    template: featured-boxes
+    heading: Display Featured Panels
+    body: >-
+      Create multiple panels for use on featuring communities, properties, and
+      more.
+    blocks:
+      - heading:
+        image:
+        link:
 ---
 
