@@ -30,14 +30,14 @@ main_photo = "/uploads/40903982jpg.jpg"
   image = "/uploads/40902643jpg.jpg"
 
 [details]
-bathrooms = ""
-bedrooms = ""
-garage = ""
+bathrooms = "3"
+bedrooms = "5"
+garage = "1"
 hoa = ""
-lot_size = ""
-mls_number = ""
-square_footage = ""
-year_built = ""
+lot_size = "4,000"
+mls_number = "ASD-45634"
+square_footage = "3,564"
+year_built = "1990"
 longitude = ""
 latitude = ""
 
@@ -69,4 +69,5 @@ youtube_link = ""
 title_tag = ""
 meta_description = ""
 +++
+
 **Lorem Ipsum**&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
