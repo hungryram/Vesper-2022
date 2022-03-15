@@ -118,6 +118,8 @@ paths:
   # The default location for newly uploaded files, relative to source
   uploads: static/uploads/
 _inputs:
+  zip-codes:
+    label: Zip Code
   equal_housing_logo:
     type: switch
   mls_logo:
@@ -211,6 +213,11 @@ _inputs:
     comment: Grab the video code from the URL. i.e https://www.youtube.com/watch?v=xxxxxxxxxxx
   testimonial:
     type: markdown
+  source:
+    label: Source Link
+    comment: Link to where the review can be found
+  source:
+    label: Source Name
   mls_number:
     type: text
     label: MLS Number
@@ -512,7 +519,7 @@ _structures:
           _type: custom-code
           template: custom-code
           textarea:
-      - label: "latest Posts"
+      - label: "Latest Posts"
         value:
           _type: latest-posts
           template: latest-posts
