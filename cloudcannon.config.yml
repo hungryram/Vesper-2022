@@ -216,7 +216,7 @@ _inputs:
   source:
     label: Source Link
     comment: Link to where the review can be found
-  source:
+  source_label:
     label: Source Name
   mls_number:
     type: text
