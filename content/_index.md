@@ -46,6 +46,12 @@ home_sections:
     image: /uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg
     image_alt_tag:
     image_width: 400
+  - _type: active-listings-carousel
+    template: active-listings
+    heading: Featured Listings
+    body: >-
+      You can add in listings manually within the admin or connect your website
+      to your MLS board.
   - _type: team-carousel
     template: home-agent
     heading: Meet Our Agents
