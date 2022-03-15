@@ -46,5 +46,9 @@ home_sections:
     image: /uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg
     image_alt_tag:
     image_width: 400
+  - _type: team-carousel
+    template: home-agent
+    heading: Meet Our Agents
+    body: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
 
