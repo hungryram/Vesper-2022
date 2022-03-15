@@ -1,4 +1,9 @@
 column_size: 2-3@m
-custom_css:
+custom_css: |-
+  <style>
+  .hero-overlay {
+      background: rgb(58 58 58 / 43%);
+  }
+  </style>
 custom_script:
 custom_closing_script:
