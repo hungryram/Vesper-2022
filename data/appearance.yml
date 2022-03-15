@@ -1,8 +1,8 @@
 branding:
   site_title:
-  logo:
-  dark_logo:
-  favicon:
+  logo: /uploads/re-logo.png
+  dark_logo: /uploads/re-logo.png
+  favicon: /uploads/favicon.png
   logo_width: 120
 icons:
   onefivetwo:
