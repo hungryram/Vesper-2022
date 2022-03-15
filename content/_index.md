@@ -63,8 +63,14 @@ home_sections:
       Create multiple panels for use on featuring communities, properties, and
       more.
     blocks:
-      - heading:
-        image:
-        link:
+      - heading: Single Family
+        image: /uploads/shutterstock-1921203497.jpg
+        link: /properties/single-family/
+      - heading: Apartments
+        image: /uploads/slider3-o30w9i.jpg
+        link: /properties/apartment/
+      - heading: Multi-Family
+        image: /uploads/slider1.jpg
+        link: /properties/multi-family/
 ---
 
