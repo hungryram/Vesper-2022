@@ -27,9 +27,6 @@ pages:
   image: /uploads/shutterstock-20129206822.jpg
 page_sidebar:
   sidebar:
-    - _type: blog-category
-      template: side-blog-category
-      comment: Nothing to configure, categories will display.
     - _type: latest-posts
       template: latest-posts
     - _type: listings
