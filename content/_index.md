@@ -19,7 +19,7 @@ slideshow:
     subtitle:
     link_label: Read More
     link: https://www.hungryram.com
-    image: /uploads/main-banner.jpg
+    image: /uploads/banner-image.jpg
     body: >-
       Vesper is a real estate theme created by Hungry Ram Web Design. Built to
       outperform traditional real estate websites.
