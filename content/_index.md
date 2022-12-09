@@ -2,7 +2,7 @@
 slideshow_settings:
   slide_animation: push
   enable_autoplay: true
-  enable_ken_burns_effect: false
+  enable_ken_burns_effect: true
   enable_black_text: false
   enable_idx_search: true
   enable_default_search: false
@@ -72,4 +72,3 @@ home_sections:
     heading: Meet Our Agents
     body: Lorem ipsum dolor sit amet, consectetur adipisicing elit
 ---
-
