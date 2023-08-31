@@ -3,6 +3,17 @@
 <div id="home-section">
   {{ range .Params.home_sections }}
 
+  <div class="uk-section">
+    <div class="uk-container">
+      <script>
+        document.currentScript.replaceWith(ihfKestrel.render({
+          "component": "quickSearchWidget",
+          "style": "horizontal"
+        }));
+      </script>
+    </div>
+  </div>
+
   {{ if eq "featured-idx-listings" .template }}
 
   <div class="uk-section uk-section-small">

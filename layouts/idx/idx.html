@@ -8,7 +8,9 @@
     </div>
 </div><div class="uk-section">
     <div class="uk-container uk-container-large">
-        {idx_body}
+        <script>
+            document.currentScript.replaceWith(ihfKestrel.render());
+        </script>
     </div>
 </div>
 {{ partial "global/footer" . }}
